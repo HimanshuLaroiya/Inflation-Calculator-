@@ -54,7 +54,7 @@ The cost and percent change formulas are the ones published on the Bank of Canad
 
 Below is a graph of the CPI over time: 
 
-
+![image alt](https://github.com/HimanshuLaroiya/Inflation-Calculator-/blob/925879463e38c95a60b23b3c1e4f2fbadf426323/cpi_chart.png)
 
 
 
