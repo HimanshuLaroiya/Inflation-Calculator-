@@ -73,6 +73,7 @@ Below is a graph of the CPI over time:
 
 Below is a sample output of the project when inputed 01/1914 as the first date, $100 as the price at this first date, and 09/2026 as the second date: 
 
+![image alt](https://github.com/HimanshuLaroiya/Inflation-Calculator-/blob/a86180cb2910b18aa261dc664c3fad392b1582c2/Output%20Example.png)
 
 
 
